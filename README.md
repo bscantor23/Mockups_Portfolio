@@ -25,10 +25,26 @@ The mockups in the `APS` directory showcase the user interface and workflow of t
 ![APS Page 5](APS/page_aps_5.png)
 ![APS Page 6](APS/page_aps_6.png)
 
+## Ruppell
+---
+
+**Ruppell** is a personal startup project that aims to create multidisciplinary virtual communities and courses under the concept of "nidos" (nests). It is built using **React.js** and **Tailwind CSS** to provide a modern and responsive user experience.
+
+### Ruppell Mockups
+
+![Ruppell 0](Ruppell/ruppell_0.png)
+![Ruppell 1](Ruppell/ruppell_1.png)
+![Ruppell 2](Ruppell/ruppell_2.png)
+![Ruppell 3](Ruppell/ruppell_3.png)
+![Ruppell 4](Ruppell/ruppell_4.png)
+![Ruppell 5](Ruppell/ruppell_5.png)
+![Ruppell 6](Ruppell/ruppell_6.png)
+![Ruppell 7](Ruppell/ruppell_7.png)
+
 ## Other Projects
 ---
 
-In addition to APS, this repository includes mockups and images from other projects I have worked on:
+In addition to APS and Ruppell, this repository includes mockups and images from other projects I have worked on:
 
 ### Conventt
 
